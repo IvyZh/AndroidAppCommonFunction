@@ -1,5 +1,6 @@
 # AndroidAppCommonFunction
-Android 应用常用的技术&amp;功能
+
+**Android 应用常用的技术&功能**
 
 
 ### ListView
@@ -63,6 +64,7 @@ Android 应用常用的技术&amp;功能
 ### Bugly Umeng 阿里百川 Jpush
 
 
+### 内存泄漏
 
 ### 其他
 
